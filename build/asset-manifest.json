@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9162f93c.css",
+    "main.js": "/static/js/main.d24346f3.js",
+    "static/js/453.9430e373.chunk.js": "/static/js/453.9430e373.chunk.js",
+    "static/media/klo.jpg": "/static/media/klo.88fd19da27eb7bf80bc3.jpg",
+    "index.html": "/index.html",
+    "main.9162f93c.css.map": "/static/css/main.9162f93c.css.map",
+    "main.d24346f3.js.map": "/static/js/main.d24346f3.js.map",
+    "453.9430e373.chunk.js.map": "/static/js/453.9430e373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9162f93c.css",
+    "static/js/main.d24346f3.js"
+  ]
+}
